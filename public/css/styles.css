@@ -1,0 +1,72 @@
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+body
+{
+  color: mintcream;
+  background: black;
+  line-height: 1.75;
+
+}
+a
+{
+  color: white !important;
+
+}
+.navbar-nav  li a:hover {
+    color: #006B38FF !important;
+}
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+}
+p
+{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.25rem;
+  letter-spacing: 2px;
+
+}
+.navbar-brand
+{
+  font-family: "Montserrat",'sans-serif';
+  font-size: 1.5rem;
+
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: teal;
+
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: teal;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #000;
+}
