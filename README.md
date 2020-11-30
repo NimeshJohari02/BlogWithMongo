@@ -1,5 +1,9 @@
 # BlogWithMongo
-This is a Personal Blog Websit Using 
+
+This is a Personal Blog Page Wherein you can write your heart Out .. 
+Made By Nimesh 
+
+Using 
 # Frontend
 EJS,CSS,AnimateCss,
 # Backend
